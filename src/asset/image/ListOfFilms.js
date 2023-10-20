@@ -1,0 +1,77 @@
+export const listFilms = [
+    {
+        id: 1,
+        Image: require('./bietdoidanhthue.jpg'),
+        Title: 'Biệt đội đánh thuê 4',
+        Year: '2023',
+        Nation: 'USA',
+        Description: `Biệt Đội Đánh Thuê - gồm cả các gương mặt kỳ cựu và những tân binh - đã bắt đầu một nhiệm vụ mới. Lần này, họ sẽ tới một nhà máy vũ khí hạt nhân cũ tại Qadhafi để tóm gọn Suharato Rahmat, kẻ đang âm mưu một mình đánh cắp kíp nổ hạt nhân cho gã khách hàng xảo quyệt Ocelot. Rahmat từng là một tay buôn vũ khí người Anh với đội quân của riêng mình. Hắn đã thành công đánh cắp va li chứa kíp nổ trước khi Biệt Đội Đánh Thuê kịp tìm đến. Nếu kíp nổ rơi vào tay Ocelot, gã sẽ hủy diệt cả thế giới. Sau khi nhiệm vụ tóm gọn Rahmat thất bại, cả đội tiếp tục hành trình trên con thuyền Jantara, nơi bước ngoặt thực sự của câu chuyện xảy ra, và một sự thật gây sốc về Ocelot được hé lộ.
+        DIỄN V`,
+    },
+    {
+        id: 2,
+        Image: require('./chuthuathoichien.jpg'),
+        Title: 'Jujutsu Kaisen ',
+        Year: '2023',
+        Nation: 'Japan',
+        Description: `Không còn sống được bao lâu, nam sinh cấp ba Yuji quyết tìm cho ra và nuốt 19 ngón tay còn lại của lời nguyền chết chóc để cậu và nó cùng tan biến.`,
+    },
+    {
+        id: 3,
+        Image: require('./loki.jpg'),
+        Title: 'Loki',
+        Year: '2023',
+        Nation: 'USA',
+        Description: `Một chương mới của Marvel với Loki là trung tâm của câu chuyện.`,
+    },
+    {
+        id: 4,
+        Image: require('./laphieutuhinh.jpg'),
+        Title: 'The Killing Vote',
+        Year: '2023',
+        Nation: 'Korea',
+        Description: `Khi những tên tội phạm ghê tởm trốn tránh sự trừng phạt của pháp luật, tất cả công dân trên 18 tuổi sẽ nhận được một tin nhắn văn bản thăm dò ý kiến ​​​​của họ về việc liệu người đó có nên nhận án tử hình hay không. Nếu hơn 50% phản hồi ủng hộ hình phạt tử hình, người đó sẽ bị giết bởi "Mặt nạ chó" - không rõ danh tính, hoạt động trong thế giới ảo.`,
+    },
+    {
+        id: 5,
+        Image: require('./ragna.jpg'),
+        Title: 'Ragna Crimson',
+        Year: '2023',
+        Nation: 'Japan',
+        Description: `Ragna là một thợ săn rồng "kém cỏi". Anh có một cô em gái vô cùng mạnh mẽ. Một ngày nọ một kẻ địch cực mạnh xuất hiện, đe dọa sinh mạng của em gái Ragna. Lúc này, một nhân vật lạ mặt xuất hiện - ông ta chính là Ragna trong tương lai và đang nắm giữ một sức mạnh vô cùng lớn. Ragna tương lai căm ghét sức mạnh của mình, nhưng Ragna hiện tại thì cần nó! Tương lai trao lại sức mạnh cho quá khứ và rồi một thợ săn rồng hùng mạnh ra đời!`,
+    },
+    {
+        id: 6,
+        Image: require('./nhiemvubatkhathi.jpg'),
+        Title: 'Dead Mount Death Play',
+        Year: '2023',
+        Nation: 'USA',
+        Description: ` Trong lần trở lại này, điệp viên Ethan Hunt đang nắm giữ trong tay chiếc chìa khóa bí ẩn khiến anh trở thành mục tiêu bị săn đuổi bởi nhiều đối tượng.`,
+    },
+    {
+        id: 7,
+        Image: require('./toiackinhhoang.jpg'),
+        Title: 'The Worst of Evil',
+        Year: '2023',
+        Nation: 'Korea',
+        Description: `Tội Ác Kinh Hoàng kể về quá trình cảnh sát chìm Park Joon Mo (Ji Chang Wook) thâm nhập vào một tổ chức tội phạm ở Gangnam - trung tâm buôn bán ma túy trái phép giữa Hàn Quốc, Trung Quốc và Nhật Bản vào những năm 1990.
+
+        Trong quá trình này, Park Joon Mo ngày càng trở nên gắn bó hơn với Jung Ki Chul (Wi Ha Joon) - trùm băng đảng mới nổi của tổ chức buôn bán ma túy Gangnam.`,
+    },
+    {
+        id: 8,
+        Image: require('./doraemon.jpg'),
+        Title: 'Doraemon: Nobita và viện bảo tàng bảo bối',
+        Year: '2013',
+        Nation: 'Japan',
+        Description: `Một kẻ tự xưng là siêu trộm Kaito Deluxe (DX) đã đột nhập vào nhà Nobita lúc nửa đêm và lấy đi quả chuông của Doraemon. Điều này đưa Nobita và nhóm bạn vào cuộc phiêu lưu truy tìm tung tích của quả chuông tại 1 nơi mang tên "Viện Bảo Tàng Bảo Bối Tương Lai", đây là nơi lưu giữ tất cả các bảo bối tại thế kỷ 22. Cuộc điều tra trở nên phức tạp và kỳ lạ hơn khi có sự xuất hiện của những nhân vật mới.`,
+    },
+    {
+        id: 9,
+        Image: require('./walkingdead.jpg'),
+        Title: 'Xác Sống: Daryl Dixon',
+        Year: '2023',
+        Nation: 'USA',
+        Description: `Xác Sống: Daryl Dixon kể về hành trình của Daryl xuyên qua một nước Pháp tan vỡ nhưng kiên cường khi anh hy vọng tìm được đường trở về nhà.`,
+    },
+];
